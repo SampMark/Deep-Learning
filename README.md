@@ -5,7 +5,11 @@ Aqui você encontrará conceitos básicos e avançados de aprendizado profundo, 
 
 ---
 
-## 📂 Estrutura do Repositório (Visão Geral)
+## 🤓 Visão Geral sobre o TensorFlow e Keras 
+
+O TensorFlow é uma biblioteca de código aberto criada pelo Google Brain, atualmente parte do Google DeepMind. Consolidou-se como um dos frameworks mais proeminentes para o desenvolvimento e implantação de modelos de aprendizado de máquina e Deep Learning. Desde sua criação, tornou-se indispensável em aplicações que variam de servidores robustos a dispositivos embarcados (Edge), permitindo escalabilidade e flexibilidade. A fusão com a DeepMind marca uma nova era na pesquisa em inteligência artificial, combinando recursos e expertise para enfrentar desafios avançados no campo. Acesse o artigo: [Visão Geral sobre o TensorFlow e Keras](https://docs.google.com/document/d/1Sj7wR0JEloDEdC3qa_7Mn9ZlMi7gEIsnez_agWLJD-w/edit?usp=sharing)!
+
+## 📂 Estrutura do Repositório
 
 ### **1️⃣ Funcionalidades Avançadas do Keras**
 - 🔧 **Conteúdos explorados**: 
