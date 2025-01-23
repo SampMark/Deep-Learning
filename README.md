@@ -9,11 +9,11 @@ Aqui você encontrará conceitos básicos e avançados de aprendizado profundo, 
 
 ### **1️⃣ Funcionalidades Avançadas do Keras**
 - 🔧 **Conteúdos explorados**: 
-  - Uso da API funcional do Keras para criar modelos complexos.
+  - Uso da API funcional do Keras para criação de modelos complexos.
   - Criação de camadas e modelos personalizados.
 - 🧪 **Projetos**:
   - [Implementação da API funcional para a construção de Redes Neurais](https://github.com/SampMark/Deep-Learning/blob/main/Building_Neural_Networks_with_the_Keras_Functional_API.ipynb)
-  - Criação de camadas personalizadas.
+  - [Implementação do Dropout e BatchNormalization em Redes Neurais](https://github.com/SampMark/Deep-Learning/blob/main/Dropout_and_Batch_Normalization_in_Neural_Network.ipynb)
 
 ---
 
