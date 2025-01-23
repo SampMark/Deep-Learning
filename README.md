@@ -9,6 +9,19 @@ Aqui você encontrará conceitos básicos e avançados de aprendizado profundo, 
 
 O TensorFlow é uma biblioteca de código aberto criada pelo Google Brain, atualmente parte do Google DeepMind. Consolidou-se como um dos frameworks mais proeminentes para o desenvolvimento e implantação de modelos de aprendizado de máquina e Deep Learning. Desde sua criação, tornou-se indispensável em aplicações que variam de servidores robustos a dispositivos embarcados (Edge), permitindo escalabilidade e flexibilidade. A fusão com a DeepMind marca uma nova era na pesquisa em inteligência artificial, combinando recursos e expertise para enfrentar desafios avançados no campo. Acesse o artigo: [Visão Geral sobre o TensorFlow e Keras](https://docs.google.com/document/d/1Sj7wR0JEloDEdC3qa_7Mn9ZlMi7gEIsnez_agWLJD-w/edit?usp=sharing)!
 
+### Breve Comparativo entre as ferramentas de Deep Learning
+
+Existem outras ferramentas de Deep Learning disponíveis, como PyTorch e Caffe.
+
+| **Ferramenta** | **Vantagens**                                                                                  | **Desvantagens**                                   |
+|-----------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------|
+| **TensorFlow**  | Flexibilidade, escalabilidade, eficiência, ampla comunidade, suporte a produção em larga escala. | Curva de aprendizado íngreme.                    |
+| **Keras**       | Facilidade de uso, abstração de alto nível, modularidade, extensibilidade, integração nativa com o TensorFlow. | Menos flexível que o TensorFlow.                 |
+| **PyTorch**     | Flexibilidade, facilidade de uso, popularidade na pesquisa, execução dinâmica, comunidade crescente. | Menos maduro que o TensorFlow em produção.       |
+| **Caffe**       | Eficiência, popularidade em visão computacional, desempenho otimizado para inferências rápidas. | Menos flexível que TensorFlow e PyTorch.         |
+
+Cada ferramenta possui suas próprias vantagens e desvantagens e a escolha da ferramenta ideal depende das necessidades específicas do projeto.
+
 **Fontes**:
 - [Google DeepMind](https://deepmind.google/)
 - [KERAS: Simple, Flexible and Powerful!](https://keras.io/)
