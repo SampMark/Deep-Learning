@@ -12,6 +12,7 @@ O TensorFlow é uma biblioteca de código aberto criada pelo Google Brain, atual
 **Fontes**:
 - [Google DeepMind](https://deepmind.google/)
 - [KERAS: Simple, Flexible and Powerful!](https://keras.io/)
+- [Keras-Team: Deep Learning for humans](https://github.com/keras-team)
 
 ## 📂 Estrutura do Repositório
 
