@@ -32,10 +32,11 @@ Cada ferramenta possui suas próprias vantagens e desvantagens e a escolha da fe
 ### **1️⃣ Funcionalidades Avançadas do Keras**
 - 🔧 **Conteúdos explorados**: 
   - Uso da API funcional do Keras para criação de modelos complexos.
-  - Criação de camadas e modelos personalizados.
+  - Criação de camadas e modelos personalizados, usando a lógica de Programação Orientada a Objetos (POO).
 - 🧪 **Projetos**:
   - [Implementação da API funcional para a construção de Redes Neurais](https://github.com/SampMark/Deep-Learning/blob/main/Building_Neural_Networks_with_the_Keras_Functional_API.ipynb)
   - [Implementação do Dropout e BatchNormalization em Redes Neurais](https://github.com/SampMark/Deep-Learning/blob/main/Dropout_and_Batch_Normalization_in_Neural_Network.ipynb)
+  - [Programação Orientada a Objetos (POO) na construção e avalição de modelos de Redes Neurais com o TensorFlow/Keras](https://github.com/SampMark/Deep-Learning/blob/main/Creating_Custom_Layers_and_Models.ipynb)
 
 ---
 
