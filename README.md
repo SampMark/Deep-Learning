@@ -45,7 +45,8 @@ Cada ferramenta possui suas próprias vantagens e desvantagens e a escolha da fe
   - Técnicas de aumento de dados e transferência de aprendizado.
   - Uso do TensorFlow para processamento de imagens.
 - 🧪 **Projetos**:
-  - [Introdução às Redes Neurais Convolucionais, criação de uma imagem artificial simples e aplicação de várias técnicas](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks.ipynb)
+  - [**Introdução às Redes Neurais Convolucionais (CNN)**, criação de uma imagem artificial simples e aplicação de várias técnicas](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks.ipynb)
+  - [**Aprendizado por Transferência**, utilização de modelos pré-treinados](https://github.com/SampMark/Deep-Learning/blob/main/binary_classification_model_using_transfer_learning_VGG16.ipynb)
 
 ---
 
