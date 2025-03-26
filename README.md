@@ -1,17 +1,19 @@
-# 🚀 Deep Learning com TensorFlow e Keras
+# Deep Learning com TensorFlow e Keras
 
-🎉 **Bem-vindo** ao meu repositório sobre **Deep Learning com TensorFlow e Keras**!  
+**Bem-vindo** ao meu repositório sobre **Deep Learning com TensorFlow e Keras**!  
 Aqui você encontrará conceitos básicos e avançados de aprendizado profundo, utilizando as ferramentas TensorFlow e Keras.
 
 ---
 
-## 🤓 Visão Geral sobre o TensorFlow e Keras 
+## Visão Geral sobre o TensorFlow e Keras 
 
 O TensorFlow é uma biblioteca de código aberto criada pelo Google Brain, atualmente parte do Google DeepMind. Consolidou-se como um dos frameworks mais proeminentes para o desenvolvimento e implantação de modelos de aprendizado de máquina e Deep Learning. Desde sua criação, tornou-se indispensável em aplicações que variam de servidores robustos a dispositivos embarcados (Edge), permitindo escalabilidade e flexibilidade. A fusão com a DeepMind marca uma nova era na pesquisa em inteligência artificial, combinando recursos e expertise para enfrentar desafios avançados no campo. Acesse o artigo: [Visão Geral sobre o TensorFlow e Keras](https://docs.google.com/document/d/1Sj7wR0JEloDEdC3qa_7Mn9ZlMi7gEIsnez_agWLJD-w/edit?usp=sharing)!
 
+Em linhas gerais, o TensorFlow oferece as ferramentas necessárias para realizar operações matemáticas complexas, para construção de arquiteturas de Redes Neurais avançadas e gerenciar o treinamento em diferentes plataformas (CPU, GPU). Por sua vez, Keras, como uma API de alto nível do TensorFlow, fornece uma interface amigável e intuitiva para realizar tarefas comuns de processamento de imagens, como classificação, aumento de dados e a implementação de técnicas mais avançadas, sem exigir um conhecimento profundo dos detalhes internos do TensorFlow.
+
 ### Breve Comparativo entre as ferramentas de Deep Learning
 
-Existem outras ferramentas de Deep Learning disponíveis, como PyTorch e Caffe.
+Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 
 | **Ferramenta** | **Vantagens**                                                                                  | **Desvantagens**                                   |
 |-----------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------|
@@ -19,8 +21,6 @@ Existem outras ferramentas de Deep Learning disponíveis, como PyTorch e Caffe.
 | **Keras**       | Facilidade de uso, abstração de alto nível, modularidade, extensibilidade, integração nativa com o TensorFlow. | Menos flexível que o TensorFlow.                 |
 | **PyTorch**     | Flexibilidade, facilidade de uso, popularidade na pesquisa, execução dinâmica, comunidade crescente. | Menos maduro que o TensorFlow em produção.       |
 | **Caffe**       | Eficiência, popularidade em visão computacional, desempenho otimizado para inferências rápidas. | Menos flexível que TensorFlow e PyTorch.         |
-
-Cada ferramenta possui suas próprias vantagens e desvantagens e a escolha da ferramenta ideal depende das necessidades específicas do projeto.
 
 **Fontes**:
 - [Google DeepMind](https://deepmind.google/)
@@ -41,8 +41,9 @@ Cada ferramenta possui suas próprias vantagens e desvantagens e a escolha da fe
 ---
 
 ### **2️⃣ CNNs Avançadas no Keras** (Em Construção 🚧🏗️👷)
+- As Redes Neurais Convolucionais (CNNs) são modelos poderosos em tarefas de **visão computacional**, incorporam técnicas avançadas em sua construção e treinamento usando a biblioteca Keras, as quais elevam significativamente o desempenho dos modelos de aprendizado profundo em tarefas complexas. As técnicas avançadas incorporam arquiteturas de rede mais sofisticadas (além das camadas convolucionais e de _pooling_ básicas), funções de ativação não lineares mais complexas, mecanismos de regularização mais eficazes e otimizadores de treinamento avançados.
 - 🖼️ **Conteúdos explorados**: 
-  - Técnicas de aumento de dados e transferência de aprendizado.
+  - Técnicas de aumento de dados e transferência de aprendizado:
   - Uso do TensorFlow para processamento de imagens.
 - 🧪 **Projetos**:
   - [**Introdução às Redes Neurais Convolucionais (CNN)**, criação de uma imagem artificial simples e aplicação de várias técnicas](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks.ipynb)
