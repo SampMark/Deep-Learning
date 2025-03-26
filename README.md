@@ -87,8 +87,8 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
   - 🐍 Python
   - 🧠 TensorFlow e Keras
 - **Ambientes de Desenvolvimento**:
-  - 📝 Jupyter Notebook
   - ☁️ Google Colab
+  - 📝 Jupyter Notebook
 
 ---
 
