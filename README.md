@@ -40,7 +40,7 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 
 ---
 
-### **2️⃣ CNNs Avançadas no Keras** (Em Construção 🚧🏗️👷)
+### **2️⃣ CNNs Avançadas no Keras**
 - As Redes Neurais Convolucionais (CNNs) são modelos poderosos em tarefas de **visão computacional**, incorporam técnicas avançadas em sua construção e treinamento usando a biblioteca Keras, as quais elevam significativamente o desempenho dos modelos de aprendizado profundo em tarefas complexas. As técnicas avançadas incorporam arquiteturas de rede mais sofisticadas (além das camadas convolucionais e de _pooling_ básicas), funções de ativação não lineares mais complexas, mecanismos de regularização mais eficazes e otimizadores de treinamento avançados.
 - 🖼️ **Conteúdos explorados**: 
   - Técnicas de aumento de dados e transferência de aprendizado:
@@ -48,6 +48,7 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 - 🧪 **Projetos**:
   - [**Introdução às Redes Neurais Convolucionais (CNN)**, criação de uma imagem artificial simples e aplicação de várias técnicas](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks.ipynb)
   - [**Aprendizado por Transferência**, utilização de modelos pré-treinados](https://github.com/SampMark/Deep-Learning/blob/main/binary_classification_model_using_transfer_learning_VGG16.ipynb)
+  - [**Redes Neural Convolucional (CNN) usando o dataset do MNIST do TensorFlow**: para reconhecimento de dígitos manuscritos](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks_with_MNIST.ipynb)
 
 ---
 
