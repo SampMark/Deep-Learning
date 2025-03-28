@@ -52,18 +52,21 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 
 ---
 
-### **3️⃣ Transformadores no Keras** (Em Construção 🚧🏗️👷)
+### **3️⃣ Transformadores no Keras**
+- Considerada um "divisor de águas" em _deep learning_, especialmente no Processamento de Linguagem Natural (PLN), os Transformers se tornaram a espinha dorsal de modelos de ponta, tais como o BERT e o GPT. Sua aplicação se expandiu para além do PLN, alcançando visão computacional e análise de séries temporais, conforme artigo seminal "_Attention is All You Need_" de Vaswani Ashish et al.
 - 🔄 **Conteúdos explorados**: 
   - Construção e treinamento de transformadores para dados sequenciais.
   - Geração de texto e previsão de séries temporais com TensorFlow.
-- 🧪 **Projeto**: Construção de transformadores avançados.
+- 🧪 **Projeto**:
+  - [**Arquitetura de Transformers Avançados**](https://github.com/SampMark/Deep-Learning/blob/main/Transformer_Model_Architecture.ipynb)
 
 ---
 
 ### **4️⃣ Aprendizado Não Supervisionado e Modelos Generativos** (Em Construção 🚧🏗️👷)
 - 🤖 **Conteúdos explorados**: 
   - Desenvolvimento de autoencoders, modelos de difusão e GANs.
-- 🧪 **Projeto**: Implementação de autoencoders e GANs.
+- 🧪 **Projeto**:
+  - Implementação de autoencoders e GANs.
 
 ---
 
@@ -94,13 +97,4 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 ---
 
 ## 🤝 Contribuições
-Fique à vontade para feedbacks, sugestões de melhorias e novas ideias! São sempre bem-vindos. ! 💡  
- 
-📌 **Como contribuir**:
-- Abra uma **issue** para discutir melhorias.
-- Envie um **pull request** com suas contribuições.
-
----
-
-## 🌟 Vamos lá!
-**💡 Juntos, exploraremos o instigante mundo do Deep Learning com TensorFlow e Keras!**
+Fique à vontade para feedbacks, sugestões de melhorias e novas ideias! 
