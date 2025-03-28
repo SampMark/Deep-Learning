@@ -52,8 +52,8 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 
 ---
 
-### **3️⃣ Transformadores no Keras**
-- Considerada um "divisor de águas" em _deep learning_, especialmente no Processamento de Linguagem Natural (PLN), os Transformers se tornaram a espinha dorsal de modelos de ponta, tais como o BERT e o GPT. Sua aplicação se expandiu para além do PLN, alcançando visão computacional e análise de séries temporais, conforme artigo seminal "_Attention is All You Need_" de Vaswani Ashish et al.
+### **3️⃣ Transformers no Keras**
+- Considerada um "divisor de águas" em _deep learning_, especialmente no Processamento de Linguagem Natural (PLN), os **transformers** se tornaram a espinha dorsal de modelos de ponta, tais como o BERT e o GPT. Sua aplicação se expandiu para além do PLN, alcançando visão computacional e análise de séries temporais, conforme artigo seminal "_Attention is All You Need_" de Vaswani Ashish et al.
 - 🔄 **Conteúdos explorados**: 
   - Construção e treinamento de transformadores para dados sequenciais.
   - Geração de texto e previsão de séries temporais com TensorFlow.
