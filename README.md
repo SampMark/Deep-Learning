@@ -47,7 +47,8 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
   - Uso do TensorFlow para processamento de imagens.
 - 🧪 **Projetos**:
   - [**Introdução às Redes Neurais Convolucionais (CNN)**, criação de uma imagem artificial simples e aplicação de várias técnicas](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks.ipynb)
-  - [**Aprendizado por Transferência**, utilização de modelos pré-treinados](https://github.com/SampMark/Deep-Learning/blob/main/binary_classification_model_using_transfer_learning_VGG16.ipynb)
+  - [**_Transfer Learning_**, utilização de modelo pré-treinado para classificação binária](https://github.com/SampMark/Deep-Learning/blob/main/binary_classification_model_using_transfer_learning_VGG16.ipynb)
+  - [**_Transfer Learning_** no diagnóstico de malária, utilização de modelo pré‑treinado do ImageNet, com imagens de lâminas de células sanguíneas](https://github.com/SampMark/Deep-Learning/blob/main/transfer_learning_with_malaria_dataset_consolidated.ipynb)
   - [**Redes Neural Convolucional (CNN) usando o dataset do MNIST do TensorFlow**: para reconhecimento de dígitos manuscritos](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks_with_MNIST.ipynb)
 
 ---
