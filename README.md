@@ -60,6 +60,7 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
   - Geração de texto e previsão de séries temporais com TensorFlow.
 - 🧪 **Projeto**:
   - [**Arquitetura de Transformers Avançados**](https://github.com/SampMark/Deep-Learning/blob/main/Transformer_Model_Architecture.ipynb)
+  - [**Transformer para geração de texto, utilizando o dataset Shakespeare**](https://github.com/SampMark/Deep-Learning/blob/main/Transformers_for_Text_Generation_consolided.ipynb)
 
 ---
 
