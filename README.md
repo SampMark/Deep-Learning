@@ -64,12 +64,13 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 
 ---
 
-### **4️⃣ Aprendizado Não Supervisionado e Modelos Generativos** (Em Construção 🚧🏗️👷)
+### **4️⃣ Aprendizado Não Supervisionado e Modelos Generativos**
 - 🤖 **Conteúdos explorados**: 
-  - Desenvolvimento de autoencoders, modelos de difusão e GANs.
-- 🧪 **Projeto**:
+  - Desenvolvimento de modelos de autoencoders, de difusão e Generative Adversarial Networks (GAN).
+- 🧪 **Projetos**:
   - [**Modelagem Autoencoder usando Keras e o dataset MNIST**, do básico até variações aplicáveis](https://github.com/SampMark/Deep-Learning/blob/main/Autoencoder_Model_using_Keras_and_MNIST_dataset_consolidated.ipynb)
-  - Implementação de autoencoders e GANs.
+  - Implementação de modelo de difusão.
+  - Implementação de GANs.
 
 ---
 
