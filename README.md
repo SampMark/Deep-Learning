@@ -69,6 +69,7 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
   - Desenvolvimento de modelos de autoencoders, de difusão e Generative Adversarial Networks (GAN).
 - 🧪 **Projetos**:
   - [**Modelagem Autoencoder usando Keras e o dataset MNIST**, do básico até variações aplicáveis](https://github.com/SampMark/Deep-Learning/blob/main/Autoencoder_Model_using_Keras_and_MNIST_dataset_consolidated.ipynb)
+  - [**Denoising Autoencoder Convolucional** usando Keras e MNIST, fundamento para Modelos Probabilisticos de Difusão](https://github.com/SampMark/Deep-Learning/blob/main/Denoising_Autoencoders_Convolucionais_consolidated.ipynb)
   - Implementação de modelo de difusão.
   - Implementação de GANs.
 
