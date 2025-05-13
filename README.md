@@ -79,15 +79,17 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 - ⚙️ **Conteúdos explorados**: 
   - Criação de loops de treinamento personalizados.
   - Ajuste de hiperparâmetros e otimização de modelos.
-- 🧪 **Projeto**: Implementação de loops de treinamento e ajuste de hiperparâmetros.
+- 🧪 **Projetos**:
+- Implementação de loops de treinamento e ajuste de hiperparâmetros.
 
 ---
 
-### **6️⃣ Aprendizado por Reforço** (Em Construção 🚧🏗️👷)
+### **6️⃣ Aprendizado por Reforço**
 - 🕹️ **Conteúdos explorados**: 
   - Fundamentos de aprendizado por reforço e Q-Learning.
   - Desenvolvimento de redes Q profundas (DQNs).
-- 🧪 **Projeto**: Implementação de Q-Learning e DQNs.
+- 🧪 **Projetos**:
+- [**Deep Q-Network (DQN) para CartPole-v1**, usando Keras e Gymnasium](https://github.com/SampMark/Deep-Learning/blob/main/Deep_Q_Network_DQN_using_Keras_and_OpenAI_Gymnasium_in_CartPole_v1.ipynb)
 
 ---
 
