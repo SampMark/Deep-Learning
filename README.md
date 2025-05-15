@@ -75,12 +75,12 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 
 ---
 
-### **5️⃣ Técnicas Avançadas no Keras** (Em Construção 🚧🏗️👷)
+### **5️⃣ Técnicas Avançadas no Keras**
 - ⚙️ **Conteúdos explorados**: 
   - Criação de loops de treinamento personalizados.
   - Ajuste de hiperparâmetros e otimização de modelos.
 - 🧪 **Projetos**:
-- Implementação de loops de treinamento e ajuste de hiperparâmetros.
+- [**Implementação de loops de treinamento com KerasTuner e ajuste de hiperparâmetros**](https://github.com/SampMark/Deep-Learning/blob/main/Training_Loops_with_KerasTuner_Consolided.ipynb).
 
 ---
 
