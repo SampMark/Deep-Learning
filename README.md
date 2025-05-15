@@ -81,6 +81,7 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
   - Ajuste de hiperparâmetros e otimização de modelos.
 - 🧪 **Projetos**:
 - [**Implementação de loops de treinamento com KerasTuner e ajuste de hiperparâmetros**](https://github.com/SampMark/Deep-Learning/blob/main/Training_Loops_with_KerasTuner_Consolided.ipynb).
+- [**Ajuste de Hiperparâmetros com a implementação de loops de treinamento avançados, usando o KerasTuner e o HyperbandOracle**](https://github.com/SampMark/Deep-Learning/blob/main/Hyperparameter_Tuning_using_Advanced_Training_Loops_with_KerasTuner_and_Hyperband.ipynb)
 
 ---
 
