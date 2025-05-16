@@ -48,7 +48,8 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 - 🧪 **Projetos**:
   - [**Introdução às Redes Neurais Convolucionais (CNN)**, criação de uma imagem artificial simples e aplicação de várias técnicas](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks.ipynb)
   - [**_Transfer Learning_**, utilização de modelo pré-treinado para classificação binária](https://github.com/SampMark/Deep-Learning/blob/main/binary_classification_model_using_transfer_learning_VGG16.ipynb)
-  - [**_Transfer Learning_** no diagnóstico de malária, utilização de modelo pré‑treinado do ImageNet, com imagens de lâminas de células sanguíneas](https://github.com/SampMark/Deep-Learning/blob/main/transfer_learning_with_malaria_dataset_consolidated.ipynb)
+  - [**_Transfer Learning_ para classificação de imagens de frutas**, usando o modelo VGG16 pré-treinado em ImageNet e o Dataset Fruits-360](https://github.com/SampMark/Deep-Learning/blob/main/Fruit_Classification_Using_Transfer_Learning_v1.ipynb)
+  - [**_Transfer Learning_ no diagnóstico de malária**, usando o modelo VGG16 pré-treinado em ImageNet e o dataset de imagens de lâminas de células sanguíneas](https://github.com/SampMark/Deep-Learning/blob/main/transfer_learning_with_malaria_dataset_consolidated.ipynb)
   - [**Redes Neural Convolucional (CNN) usando o dataset do MNIST do TensorFlow**: para reconhecimento de dígitos manuscritos](https://github.com/SampMark/Deep-Learning/blob/main/Convolutional_Neural_Networks_with_MNIST.ipynb)
 
 ---
