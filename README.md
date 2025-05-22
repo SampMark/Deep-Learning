@@ -106,5 +106,15 @@ Comparativos com as ferramentas de _deep learning_, como PyTorch e Caffe.
 
 ---
 
+ <img src="https://github.com/user-attachments/assets/ce04e8a9-7a47-44b7-a13e-a132f8531af4" alt="edX_20Advanced_20Deep_20Learning_20Specialist" width="180" style="border: none;">
+
+|**Advanced Deep Learning Specialist**| 
+|---|
+| The badge earner can create custom layers and models in Keras, seamlessly integrate Keras with TensorFlow 2.x, and develop advanced convolutional neural networks (CNNs). They can also build Transformer models for sequential data and time series prediction. Additionally, they demonstrate expertise in key concepts of unsupervised learning, Deep Q-networks (DQNs), and reinforcement learning, applying these advanced techniques to solve real-world challenges with deep learning frameworks.|
+| O titular deste badge é capaz de criar camadas e modelos personalizados em Keras, integrar o Keras de forma fluida ao TensorFlow 2.x e desenvolver redes neurais convolucionais (CNNs) avançadas. Também é capaz de construir modelos Transformer para dados sequenciais e previsão de séries temporais. Adicionalmente, demonstra expertise em conceitos-chave de aprendizado não supervisionado, Deep Q-networks (DQNs) e aprendizado por reforço, aplicando estas técnicas avançadas para solucionar desafios do mundo real com frameworks de aprendizado profundo.|
+
+---
+
+
 ## 🤝 Contribuições
 Fique à vontade para feedbacks, sugestões de melhorias e novas ideias! 
