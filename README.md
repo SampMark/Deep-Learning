@@ -1,7 +1,7 @@
 # Deep Learning com TensorFlow e Keras
 
 **Bem-vindo** ao meu repositório sobre **Deep Learning com TensorFlow e Keras**!  
-Aqui você encontrará conceitos básicos e avançados de aprendizado profundo, utilizando as ferramentas TensorFlow e Keras.
+Aqui você encontrará diversos notebooks Colab que exploram modelagens básicas a avançadas sobre aprendizado de máquina profundo, utilizando bibliotecas Python, como o TensorFlow e o API Keras.
 
 ---
 
