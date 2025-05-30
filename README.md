@@ -1,7 +1,12 @@
 # Deep Learning com TensorFlow e Keras
 
 **Bem-vindo** ao meu repositório sobre **Deep Learning com TensorFlow e Keras**!  
+
 Aqui você encontrará diversos notebooks Colab que exploram modelagens básicas a avançadas sobre aprendizado de máquina profundo, utilizando bibliotecas Python, como o TensorFlow e o API Keras.
+
+Desenvolvi uma coleção de notebooks interativos para aprendizado profundo, que cobre a construção de modelos, desde arquiteturas mais simples a complexas voltadas a estudos sobre visão computacional, processamento de linguagem natural e aprendizado por reforço. 
+
+O conteúdo é organizado por temas, começando com funcionalidades avançadas do Keras (API funcional, camadas personalizadas, POO). Em seguida, redes neurais convolucionais (CNNs) com aplicações práticas (classificação de frutas, diagnóstico de malária, reconhecimento de resíduos) e transfer learning (VGG16). Introdução aos Transformers para processamento de linguagem natural (geração de texto, modelagem sequencial). Em seguida, aprendizado não supervisionado e modelos generativos (autoencoders, GANs e modelos de difusão). Assim como busco explorar técnicas avançadas, tais como, loops de treinamento customizados e ajuste de hiperparâmetros (KerasTuner, Hyperband). Por fim, aprendizado por reforço com Deep Q-Networks (DQNs) no ambiente CartPole-v1.
 
 ---
 
